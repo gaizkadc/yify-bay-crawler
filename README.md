@@ -9,6 +9,8 @@ Rename `settings.py.sample` to `settings.py` and set your own parameters.
 ```
 virtualenv venv
 source venv/bin/activate
+
 pip install -r requirements.txt
+
 python ybc.py
 ```
